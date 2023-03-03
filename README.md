@@ -1,5 +1,7 @@
-# Pig-Game
+# Pig Game
 Pig Game on JavaScript (Vanilla) with HTML and CSS
+
+LIVE DEMO: https://alvarofloresr.github.io/Pig-Game/
 
 ## Potential Improvements
 1. Add responsive Design (CSS)
